@@ -51,7 +51,7 @@ people:
       url: mailto:annajiat@gmail.com
       
 - name: Ekatarina (Eka) Grguric (Canada)
-  pic: 
+  pic: grguric
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/egrguric
@@ -73,7 +73,7 @@ people:
       url: mailto:tribaric@brocku.ca
 
 - name: Elizabeth (Lisa) McAulay (USA)
-  pic: 
+  pic: mcauley
   social:
     - icon: fab fa-github
       url: https://github.com/emcaulay
@@ -83,7 +83,7 @@ people:
       url: mailto:emcaulay@library.ucla.edu
       
 - name: Cody Hennesy (USA)
-  pic: 
+  pic: cody
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/codyhennesy
@@ -95,7 +95,7 @@ people:
       url: mailto:chennesy@umn.edu
 
 - name: Mary Filsell (Australia)
-  pic: 
+  pic: filsell
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/MaryFilsell
@@ -117,7 +117,7 @@ people:
       url: https://www.linkedin.com/in/catherine-nancarrow-a663604
 
 - name: Sara King (Australia)
-  pic: 
+  pic: king
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/sarasrking
@@ -141,7 +141,7 @@ people:
       url: mailto:Christopher.Erdmann@ucop.edu
      
 - name: Sarah Schäfer (South Africa)
-  pic: 
+  pic: schafer
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/SarahKateism
